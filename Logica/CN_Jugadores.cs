@@ -10,7 +10,7 @@ namespace Logica
 {
     public static class CN_Jugadores
     {
-        private static string filePath = "JugadoresCache";
+        private static string filePath = "JugadoresCache.memfile";
         public static void GuardarJugadores(string[] jugadores)
         {
             using (StreamWriter writer = new StreamWriter(filePath))

@@ -4,3 +4,9 @@ D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Configuracion\obj\Deb
 D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Configuracion\obj\Debug\Configuracion.csproj.CoreCompileInputs.cache
 D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Configuracion\obj\Debug\Configuracion.dll
 D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Configuracion\obj\Debug\Configuracion.pdb
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant-Randomizer\Configuracion\bin\Debug\Configuracion.dll
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant-Randomizer\Configuracion\bin\Debug\Configuracion.pdb
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant-Randomizer\Configuracion\obj\Debug\Configuracion.csproj.AssemblyReference.cache
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant-Randomizer\Configuracion\obj\Debug\Configuracion.csproj.CoreCompileInputs.cache
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant-Randomizer\Configuracion\obj\Debug\Configuracion.dll
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant-Randomizer\Configuracion\obj\Debug\Configuracion.pdb

@@ -64,3 +64,6 @@ _ReSharper*/
 
 # Ignorar archivos de historial de cambios de Git
 .history/
+
+# Ignorar los archivos de texto locales
+*.memfile
