@@ -1,0 +1,13 @@
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\bin\Debug\Logica.dll
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\bin\Debug\Logica.pdb
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\obj\Debug\Logica.dll
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\obj\Debug\Logica.pdb
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\bin\Debug\Servicios.dll
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\bin\Debug\Servicios.pdb
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\bin\Debug\Configuracion.dll
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Logica\bin\Debug\Configuracion.pdb

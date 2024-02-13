@@ -1,0 +1,5 @@
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\App\obj\Debug\Vista.Properties.Resources.resources
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\App\obj\Debug\App.csproj.CoreCompileInputs.cache

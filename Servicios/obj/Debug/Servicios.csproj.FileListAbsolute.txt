@@ -1,0 +1,11 @@
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Servicios\bin\Debug\Servicios.dll
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Servicios\bin\Debug\Servicios.pdb
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Servicios\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Servicios\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Servicios\obj\Debug\Servicios.csproj.AssemblyReference.cache
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Servicios\obj\Debug\Servicios.dll
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Servicios\obj\Debug\Servicios.pdb
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Servicios\bin\Debug\Configuracion.dll
+D:\Users\Tutoz\Desktop\Portfolio\Proyectos\Valorant Random\Servicios\bin\Debug\Configuracion.pdb

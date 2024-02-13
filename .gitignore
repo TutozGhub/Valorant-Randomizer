@@ -1,0 +1,66 @@
+# Ignorar archivos de usuario y configuración específicos de Visual Studio
+.vs/
+/.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignorar archivos de respaldo y archivos temporales
+*~
+*.bak
+*.tmp
+
+# Ignorar archivos de compilación y generados
+/bin/
+/obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.vsix
+*.appx
+*.appxrecipe
+*.appxbundle
+
+# Ignorar archivos y carpetas de dependencias de paquetes NuGet
+/packages/
+
+# Ignorar archivos de caché de ReSharper
+_ReSharper*/
+
+# Ignorar archivos de caché de CodeLens
+*.codeLensCache
+
+# Ignorar archivos de caché de IntelliSense
+*.opendb
+
+# Ignorar archivos de caché de tipo
+*.VC.db
+*.VC.opendb
+
+# Ignorar archivos de caché de TestResults
+/TestResults/
+
+# Ignorar archivos de caché de GitHub
+/.github/
+
+# Ignorar archivos de caché de Node.js
+/node_modules/
+
+# Ignorar archivos de caché de npm
+/npm-debug.log
+
+# Ignorar archivos de caché de yarn
+/yarn-error.log
+/.pnp/
+.pnp.js
+
+# Ignorar archivos de caché de TypeScript
+*.js.map
+
+# Ignorar archivos de caché de Visual Studio Code
+.vscode/
+
+# Ignorar archivos de historial de cambios de Git
+.history/
